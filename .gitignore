@@ -1,0 +1,11 @@
+[user]
+    name = Salma Syed
+    email = syedsalma42267@gmail.com
+[core]
+    editor = nano
+[alias]
+    co = checkout
+    br = branch
+    ci = commit
+    st = status
+    lg = log --oneline --graph --all

@@ -36,11 +36,6 @@ Welcome to my GitHub! I’m **Salma**, a Computer Science graduate from **KIYTS*
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=syedsalma19&show_icons=true&theme=algolia" alt="GitHub Stats">  
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsalma19&layout=compact&theme=algolia" alt="Top Languages">
 </div>
 <div align="center">
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=syedsalma19&show_icons=true&theme=algolia" alt="GitHub Streak">

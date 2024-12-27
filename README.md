@@ -35,6 +35,4 @@ Welcome to my GitHub! I’m **Salma**, a Computer Science graduate from **KIYTS*
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@syedsalma19)  
 
 ---
-
-
-</div>
+<div></div>

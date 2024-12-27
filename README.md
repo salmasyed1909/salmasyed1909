@@ -36,7 +36,5 @@ Welcome to my GitHub! I’m **Salma**, a Computer Science graduate from **KIYTS*
 
 ---
 
-</div>
-<div align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=syedsalma19&show_icons=true&theme=algolia" alt="GitHub Streak">
+
 </div>

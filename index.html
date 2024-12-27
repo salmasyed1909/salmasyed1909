@@ -3,14 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
+    <title>Syed Salma - AI & Python Developer</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 0;
             background-color: #f4f4f9;
             color: #333;
+            line-height: 1.6;
         }
 
         header {
@@ -25,15 +26,20 @@
             font-size: 2.5em;
         }
 
+        header p {
+            margin: 10px 0 0;
+            font-size: 1.2em;
+        }
+
         nav {
-            margin: 20px 0;
+            margin-top: 15px;
         }
 
         nav a {
             color: #fff;
             text-decoration: none;
-            margin: 0 15px;
-            font-size: 1.2em;
+            margin: 0 10px;
+            font-size: 1em;
         }
 
         nav a:hover {
@@ -55,53 +61,99 @@
             border-bottom: 2px solid #333;
             display: inline-block;
             margin-bottom: 20px;
+            color: #555;
         }
 
-        .section p {
+        .section p, .section ul {
             font-size: 1.2em;
-            line-height: 1.6;
         }
 
-        
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        ul li {
+            margin: 10px 0;
+        }
+
+        ul li strong {
+            color: #333;
+        }
+
         footer {
             background-color: #333;
             color: #fff;
             text-align: center;
             padding: 10px 0;
+            margin-top: 20px;
         }
 
         footer p {
             margin: 0;
         }
+
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
     <header>
-        <h1>My Portfolio</h1>
+        <h1>Syed Salma</h1>
+        <p>AI & Python Developer</p>
         <nav>
-            <a href="#about">About</a>
+            <a href="#skills">Skills</a>
             <a href="#projects">Projects</a>
             <a href="#contact">Contact</a>
         </nav>
     </header>
 
     <div class="container">
-        <section id="about" class="section">
-            <h2>About Me</h2>
-            <p>Hello! I'm a passionate developer skilled in web and software development. I enjoy creating innovative solutions to challenging problems and am constantly learning new technologies to enhance my craft.</p>
+        <section id="skills" class="section">
+            <h2>Skills</h2>
+            <ul>
+                <li><strong>AI & Machine Learning:</strong> Python, TensorFlow, Keras, PyTorch, NLP, Deep Learning</li>
+                <li><strong>Automation Testing:</strong> Selenium, TestNG, Appium, CI/CD Integration</li>
+                <li><strong>Programming Languages:</strong> Python, Core Java, JavaScript, SQL</li>
+                <li><strong>Tools & Technologies:</strong> Git, Docker, Jenkins, AWS, Azure</li>
+                <li><strong>Model Development:</strong> AI Model Development, Data Science</li>
+            </ul>
         </section>
 
-       
+        <section id="projects" class="section">
+            <h2>Featured Projects</h2>
+            <ul>
+                <li>
+                    <strong><a href="https://github.com/salmasyed19/Selenium_siteTesting" target="_blank">AI-Powered Testing Framework:</a></strong>  
+                    Developed an AI-based testing framework that reduces testing time by 60% using advanced automation techniques.<br>
+                    <strong>Technologies:</strong> Java, Selenium, Jenkins<br>
+                    <strong>Status:</strong> ✅ Completed
+                </li>
+                <li>
+                    <strong><a href="https://github.com/salmasyed19/chatbot-project" target="_blank">NLP-Based Chatbot:</a></strong>  
+                    Designed and implemented a conversational AI chatbot leveraging state-of-the-art NLP models like BERT to improve user engagement.<br>
+                    <strong>Technologies:</strong> Python, BERT, AWS, NLP<br>
+                    <strong>Status:</strong> ✅ Completed
+                </li>
+            </ul>
+        </section>
+
         <section id="contact" class="section">
-            <h2>Contact Me</h2>
-            <p>If you'd like to get in touch, feel free to reach out via email or connect with me on LinkedIn!</p>
-            <p>Email: <a href="syedsalma42267@gmail.com">your.email@example.com</a></p>
-            <p>LinkedIn: <a href="https://www.linkedin.com/in/syed-salma-39322224a/" target="_blank">https://linkedin.com/in/yourprofile</a></p>
+            <h2>Contact</h2>
+            <p>If you'd like to connect, feel free to reach out via email or LinkedIn:</p>
+            <p>Email: <a href="mailto:syedsalma42267@gmail.com">syedsalma42267@gmail.com</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/syed-salma-39322224a/" target="_blank">View My LinkedIn Profile</a></p>
         </section>
     </div>
 
     <footer>
-        <p>&copy; 2024 syed salma. All rights reserved.</p>
+        <p>&copy; 2024 Syed Salma. All rights reserved.</p>
     </footer>
 </body>
 </html>

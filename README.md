@@ -1,12 +1,10 @@
-Here's an updated version of your GitHub profile with the additional sections for **certifications**, **course and internship links**, and your **membership and contributions**:
 
----
 
 # **Syed Salma** – *AI & Python Developer* 👩‍💻  
 
 💡 Passionate about **AI, Machine Learning, and Automation**  
 🎓 **Infosys Pragathi Cohort 3 Member** | 📍 India  
-🚀 **Building AI-driven solutions in NLP, Computer Vision & Deep Learning**  
+🚀 **Building AI-driven solutions in NLP and Deep Learning**  
 
 ---
 
@@ -15,15 +13,12 @@ Here's an updated version of your GitHub profile with the additional sections fo
 ### **🤖 Artificial Intelligence & Machine Learning**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
 ![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-%234B8BBE.svg?style=for-the-badge&logo=ai&logoColor=white)  
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00599C?style=for-the-badge&logo=ai&logoColor=white)  
 
 ### **🧪 Automation & Testing**  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
-![TestNG](https://img.shields.io/badge/TestNG-000000?style=for-the-badge&logo=testng&logoColor=white)  
-![Appium](https://img.shields.io/badge/Appium-430098?style=for-the-badge&logo=appium&logoColor=white)  
+![TestNG](https://img.shields.io/badge/TestNG-000000?style=for-the-badge&logo=testng&logoColor=white)    
 ![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)  
 
 ### **💻 Programming Languages**  
@@ -43,14 +38,14 @@ Here's an updated version of your GitHub profile with the additional sections fo
 
 ## **🚀 Featured Projects**  
 
-### 🔹 [AI-Powered Testing Framework](https://github.com/salmasyed1909/Selenium_siteTesting)  
-📌 **Description:** Developed an **AI-driven testing framework** optimizing automation efficiency, reducing testing time by **60%**.  
+### 🔹 [Luma Website Testing Framework](https://github.com/salmasyed1909/Selenium_siteTesting)  
+📌 **Description:** Developed an **testing framework** optimizing automation efficiency, reducing testing time by **60%**.  
 🛠️ **Tech Stack:** Java | Selenium | Jenkins  
 ✅ **Status:** Completed  
 
 ### 🔹 [NLP-Based Chatbot](https://github.com/salmasyed1909/chatbot-project)  
-📌 **Description:** An advanced **chatbot powered by BERT**, delivering intelligent and contextual conversations.  
-🛠️ **Tech Stack:** Python | BERT | AWS | NLP  
+📌 **Description:** An advanced **chatbot Implemented using NLP**, delivering intelligent and contextual conversations.  
+🛠️ **Tech Stack:** Python |Machine Learning | NLP  
 ✅ **Status:** Completed  
 
 ---
@@ -104,7 +99,8 @@ Here's an updated version of your GitHub profile with the additional sections fo
 - **Automation Test Engineering Internship** – ExcelR  
 - **DevOps Internship** – Naresh Technology Consultancy Services  
 - **Front-end Development Internship** – IBM Skill Build
-- Data Science - APSSDC 
+- Data Science - APSSDC
+
 
 
 

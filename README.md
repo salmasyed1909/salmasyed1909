@@ -3,7 +3,7 @@
 # **Syed Salma** – *AI & Python Developer* 👩‍💻  
 
 💡 Passionate about **AI, Machine Learning, and Automation**  
-🎓 **Infosys Pragathi Cohort 3 Member** | 📍 India  
+🎓 **Infosys Springboard -Pragathi path to future -Cohort 3 Member** | 📍 India  
 🚀 **Building AI-driven solutions in NLP and Deep Learning**  
 
 ---

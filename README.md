@@ -61,8 +61,8 @@
 
 ## **📅 What I’m Currently Working On**  
 🔹 AI-powered **automation tools**  
-🔹 Advancing my **deep learning** skills  
-🔹 Exploring **computer vision applications**  
+🔹 Advancing my skills  
+🔹 Exploring **AI**  
 
 ---
 

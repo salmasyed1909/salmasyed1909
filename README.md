@@ -1,9 +1,4 @@
-Here’s an **even more professional and engaging** GitHub profile with:  
-✅ **Improved readability & structure**  
-✅ **More interactive sections**  
-✅ **Custom GitHub widgets**  
-✅ **Enhanced skill icons**  
-✅ **Dynamic features**  
+Here's an updated version of your GitHub profile with the additional sections for **certifications**, **course and internship links**, and your **membership and contributions**:
 
 ---
 
@@ -48,12 +43,12 @@ Here’s an **even more professional and engaging** GitHub profile with:
 
 ## **🚀 Featured Projects**  
 
-### 🔹 [AI-Powered Testing Framework](https://github.com/salmasyed19/Selenium_siteTesting)  
+### 🔹 [AI-Powered Testing Framework](https://github.com/salmasyed1909/Selenium_siteTesting)  
 📌 **Description:** Developed an **AI-driven testing framework** optimizing automation efficiency, reducing testing time by **60%**.  
 🛠️ **Tech Stack:** Java | Selenium | Jenkins  
 ✅ **Status:** Completed  
 
-### 🔹 [NLP-Based Chatbot](https://github.com/salmasyed19/chatbot-project)  
+### 🔹 [NLP-Based Chatbot](https://github.com/salmasyed1909/chatbot-project)  
 📌 **Description:** An advanced **chatbot powered by BERT**, delivering intelligent and contextual conversations.  
 🛠️ **Tech Stack:** Python | BERT | AWS | NLP  
 ✅ **Status:** Completed  
@@ -63,9 +58,9 @@ Here’s an **even more professional and engaging** GitHub profile with:
 ## **📊 GitHub Analytics**  
 
 ### **📌 GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedsalma19&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedsalma19&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedsalma19&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmasyed1909&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmasyed1909&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salmasyed1909&theme=tokyonight)  
 
 ---
 
@@ -78,7 +73,7 @@ Here’s an **even more professional and engaging** GitHub profile with:
 
 ## **🌍 Let's Connect**  
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedsalma19)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salmasyed1909)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-salma-39322224a/)  
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@syedsalma19)  
 
@@ -92,23 +87,38 @@ Here’s an **even more professional and engaging** GitHub profile with:
 ---
 
 ## **🎯 Goals for 2025**  
-✔ Master **computer vision models**  
+✔ Master **Artificial Intelligence**  
 ✔ Contribute to **open-source AI projects**  
 ✔ Develop an **end-to-end AI automation framework**  
 
 ---
 
-### ✨ *"AI isn't the future—it's the present, and I'm building it!"* 🚀  
+## **🏅 Certifications & Courses**
 
----
+### **📝 Online Courses**  
+- **AI & Machine Learning** – Infosys Springboard
+- **Data Science with Python** – Infosys Springboard
+- **Deep Learning Specialization** - Infosys Springboard
 
-### **🔧 Enhancements Added in This Version:**  
-✔ **GitHub Widgets** (Stats, Streaks, Top Languages)  
-✔ **Live Activity Section** (What I'm Working On)  
-✔ **Fun Facts & 2025 Goals**  
-✔ **Better Section Styling & Icons**  
-✔ **Improved Readability & Professionalism**  
+### **🎓 Internships**  
+- **Automation Test Engineering Internship** – ExcelR  
+- **DevOps Internship** – Naresh Technology Consultancy Services  
+- **Front-end Development Internship** – IBM Skill Build
+- Data Science - APSSDC 
 
----
 
-🚀 Let me know if you need **any more improvements** or **customizations**! 🔥
+
+## **🎓 Achievements & Memberships**  
+
+- **SWOC Contributor**  
+- **DevDisplay Contributor**  
+- **Women TechMakers Member**  
+- **Aspire Leaders Program Alumni 2025**
+- Infosys Springboard -Pragati Path to future chohort 3 Mentee
+
+
+
+✨ *"AI isn't the future—it's the present, and I'm building it!"* 🚀  
+
+
+

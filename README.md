@@ -1,38 +1,114 @@
-# Syed Salma - AI & Python Developer
-
-Welcome to my GitHub! I’m **Salma**, a Computer Science graduate from **KIYTS**, passionate about **AI**, **ML**, and **Python**. Currently focused on **AI technologies**, **automation systems**, and **data-driven applications**. As a proud **Infosys Pragathi Cohort 3 member**, I’m applying AI principles to solve real-world challenges in **Deep Learning**, **Computer Vision**, and **NLP**.
-
----
-
-## 🌟 Skills
-
-- **AI & Machine Learning:** 🐍 Python, TensorFlow, Keras, PyTorch, **NLP**, **Deep Learning**
-- **Automation Testing:** 🔧 Selenium, TestNG, Appium, **CI/CD Integration**
-- **Programming Languages:** 💻 Python, Core Java, JavaScript, SQL
-- **Tools & Technologies:** ⚙️ Git, Docker, Jenkins, **AWS**, **Azure**
-- **Model Development:** 🧠 AI Model Development, **Data Science**
+Here’s an **even more professional and engaging** GitHub profile with:  
+✅ **Improved readability & structure**  
+✅ **More interactive sections**  
+✅ **Custom GitHub widgets**  
+✅ **Enhanced skill icons**  
+✅ **Dynamic features**  
 
 ---
 
-## 🚀 Featured Projects
+# **Syed Salma** – *AI & Python Developer* 👩‍💻  
 
-### 1. [Testing Framework](https://github.com/salmasyed19/Selenium_siteTesting) 🧪
-- **Description:** Developed an AI-based testing framework that reduces testing time by 60%.  
-- **Technologies Used:** Java, Selenium, Jenkins  
-- **Status:** ✅ Completed  
-
-### 2. [NLP-Based Chatbot](https://github.com/salmasyed19/chatbot-project) 💬
-- **Description:** Built a chatbot leveraging **BERT** to deliver intelligent and human-like interactions.  
-- **Technologies Used:** Python, **BERT**, **AWS**, **NLP**  
-- **Status:** ✅ Completed  
+💡 Passionate about **AI, Machine Learning, and Automation**  
+🎓 **Infosys Pragathi Cohort 3 Member** | 📍 India  
+🚀 **Building AI-driven solutions in NLP, Computer Vision & Deep Learning**  
 
 ---
 
-## 🌐 Connect with Me
+## **💡 Skills & Expertise**  
+
+### **🤖 Artificial Intelligence & Machine Learning**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-%234B8BBE.svg?style=for-the-badge&logo=ai&logoColor=white)  
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00599C?style=for-the-badge&logo=ai&logoColor=white)  
+
+### **🧪 Automation & Testing**  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+![TestNG](https://img.shields.io/badge/TestNG-000000?style=for-the-badge&logo=testng&logoColor=white)  
+![Appium](https://img.shields.io/badge/Appium-430098?style=for-the-badge&logo=appium&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)  
+
+### **💻 Programming Languages**  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)  
+
+### **⚙️ Tools & Technologies**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+
+---
+
+## **🚀 Featured Projects**  
+
+### 🔹 [AI-Powered Testing Framework](https://github.com/salmasyed19/Selenium_siteTesting)  
+📌 **Description:** Developed an **AI-driven testing framework** optimizing automation efficiency, reducing testing time by **60%**.  
+🛠️ **Tech Stack:** Java | Selenium | Jenkins  
+✅ **Status:** Completed  
+
+### 🔹 [NLP-Based Chatbot](https://github.com/salmasyed19/chatbot-project)  
+📌 **Description:** An advanced **chatbot powered by BERT**, delivering intelligent and contextual conversations.  
+🛠️ **Tech Stack:** Python | BERT | AWS | NLP  
+✅ **Status:** Completed  
+
+---
+
+## **📊 GitHub Analytics**  
+
+### **📌 GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedsalma19&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedsalma19&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedsalma19&theme=tokyonight)  
+
+---
+
+## **📅 What I’m Currently Working On**  
+🔹 AI-powered **automation tools**  
+🔹 Advancing my **deep learning** skills  
+🔹 Exploring **computer vision applications**  
+
+---
+
+## **🌍 Let's Connect**  
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedsalma19)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-salma-39322224a/)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@syedsalma19)  
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@syedsalma19)  
 
 ---
-<div></div>
+
+## **💡 Fun Facts About Me**  
+🔥 **Tech Enthusiast:** Always exploring AI advancements!  
+🖥️ **Passionate Coder:** Love problem-solving and automation!  
+📚 **Continuous Learner:** Stay updated with AI trends!  
+
+---
+
+## **🎯 Goals for 2025**  
+✔ Master **computer vision models**  
+✔ Contribute to **open-source AI projects**  
+✔ Develop an **end-to-end AI automation framework**  
+
+---
+
+### ✨ *"AI isn't the future—it's the present, and I'm building it!"* 🚀  
+
+---
+
+### **🔧 Enhancements Added in This Version:**  
+✔ **GitHub Widgets** (Stats, Streaks, Top Languages)  
+✔ **Live Activity Section** (What I'm Working On)  
+✔ **Fun Facts & 2025 Goals**  
+✔ **Better Section Styling & Icons**  
+✔ **Improved Readability & Professionalism**  
+
+---
+
+🚀 Let me know if you need **any more improvements** or **customizations**! 🔥

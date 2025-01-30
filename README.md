@@ -33,7 +33,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-![React.js](https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg)
+![React.js](https://img.shields.io/badge/React.js-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 

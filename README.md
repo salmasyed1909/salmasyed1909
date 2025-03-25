@@ -17,13 +17,12 @@
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00599C?style=for-the-badge&logo=ai&logoColor=white)  
 
 ### **🧪 Automation & Testing**  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
-![TestNG](https://img.shields.io/badge/TestNG-000000?style=for-the-badge&logo=testng&logoColor=white)    
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)      
 ![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)  
 
 ### **💻 Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)   
+![Core Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)   
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)  
 
 ### **⚙️ Tools ,Technologies & Libraries**  
@@ -31,7 +30,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+
 
 
 ---
